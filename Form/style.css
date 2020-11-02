@@ -1,0 +1,30 @@
+p {
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+#container {
+    margin: 100px 300px 100px 300px;
+    padding: auto;
+    width: 400px;
+    height: 310px;
+    background-color: #5e6167;
+    border:solid 3px #54cf0d;
+    position: absolute;
+}
+#form {
+    margin: 15px;
+}
+#birthdayday {
+    margin-left: 22px;
+}
+button {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+.red {
+    font-size: 12px;
+    text-transform: none;
+    color: #960007;
+  
+}
